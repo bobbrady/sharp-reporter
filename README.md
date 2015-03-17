@@ -4,3 +4,6 @@
 
 **For a Live Demo** [click here](http://www.digibrady.com/portfolio/bootstrap-responsive-theme-sharpreporter.html)
 
+![Sharp Reporter on an IPhone](img/SharpReporterIphone640.jpg)
+
+
